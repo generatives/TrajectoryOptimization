@@ -1,0 +1,11 @@
+[project]
+name = "trajectoryoptimization"
+version = "0.1.0"
+description = "Trajectory optimization and path-finding sandbox for a differential-drive robot"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.4.2",
+    "pygame>=2.6.0",
+    "torch>=2.10.0",
+]
